@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_radio_btn.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/drawable-hdpi/img_radio_btn.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/round_background.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/drawable-hdpi/round_background.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_bg.jpg",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/drawable-hdpi/login_bg.jpg"
+    }
+]

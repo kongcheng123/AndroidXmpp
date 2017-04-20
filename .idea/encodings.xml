@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/activites/ChangePwdActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/adapter/SearchAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/constant/Constants.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/constant/ImgConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/constant/MyApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/fragments/MeFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/model/ChatItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/model/Friend.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/model/Room.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/model/Search.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/model/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/util/FormatTools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/util/ImageUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/util/JsonUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/util/LoadThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/util/MyAndroidUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/util/Tool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/util/XmppLoadThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/xmpp/XmppConnecionListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/xmpp/XmppConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/xmpp/XmppMessageInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/xmpp/XmppPresenceInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/d3/d3xmpp/xmpp/XmppPresenceListener.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

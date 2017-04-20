@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/expression_view.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/expression_view.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_change_pwd.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_change_pwd.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/row_chat_mine.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/row_chat_mine.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/activity_pic_picker.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/activity_pic_picker.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_new_friend.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_new_friend.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_show_pic.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_show_pic.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_web1.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_web1.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/row_room.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/row_room.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_adr.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_adr.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/row_chat.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/row_chat.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/row_contact.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/row_contact.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_map.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_map.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/gl_modify_avatar.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/gl_modify_avatar.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/morefooter.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/morefooter.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_main.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_main.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/dialog_loadding.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/dialog_loadding.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_register.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_register.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/head.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/head.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_msg.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_msg.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_web.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_web.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/singleexpression.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/singleexpression.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_contacts.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_contacts.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/singleexpression_gif.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/singleexpression_gif.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/row_msg.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/row_msg.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/grid.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/grid.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_chat.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_chat.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/line.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/line.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_friend.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_friend.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/dialog_group_message.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/dialog_group_message.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_my_room.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_my_room.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_forget_pwd.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_forget_pwd.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_login.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_login.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/row_search.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/row_search.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_search.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_search.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_room_mem.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_room_mem.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/dialog_item.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/dialog_item.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_chose.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_chose.xml"
+    },
+    {
+        "merged": "/Users/xy/D3Xmpp1/app/build/intermediates/res/merged/debug/layout/acti_me.xml",
+        "source": "/Users/xy/D3Xmpp1/app/src/main/res/layout/acti_me.xml"
+    }
+]

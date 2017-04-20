@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xy/D3Xmpp1/app/libs/asmack-android-17-0.8.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7d297ad16399d212106095f51a56b2d6adf702f">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/2/asmack-android-17-0.8.10_2e053da9d8b9e8938069caca43d8a05568a58ada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xy/D3Xmpp1/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_e72f43cb1ad0096d3c88d8a715e0f828f6bc88c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xy/D3Xmpp1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58251ce31e208ef88c7c712b742ab3556b657c63">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_28b853c3b59b9af200b47ef909810bd200d368fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_3e6ed754b7c03008f21f8a8b2f029d6d34989395/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xy/D3Xmpp1/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0d1b6b9b6d2d96eed8ae9bcd2aabad3461f29">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_ecbff9e5c9a26e2cebd271fef595966b50d78ecf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xy/D3Xmpp1/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_0767e366101d88d2aa218c6275f1c1477ef5b867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_0815e468ec81cb21fb76d1cde6412fd637af30e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xy/D3Xmpp1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/xy/D3Xmpp1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1e7c1396b7bb9963280535ca8a2a3c8532aadc83/classes.dex" />
+    </item>
+
+</items>
